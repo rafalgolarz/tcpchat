@@ -2,7 +2,7 @@
 
 An example of a simple TCP chat server and client.
 
-[![asciicast](https://asciinema.org/a/188645.png)](https://asciinema.org/a/141109?speed=2)
+[![asciicast](https://asciinema.org/a/188645.png)](https://asciinema.org/a/188645?speed=2)
 
 ## Running the server
 
